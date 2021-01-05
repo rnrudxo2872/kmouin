@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/hansanguk0222/KMOUIN_2.0.0_KAKAO_BOT#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "body-parser": "^1.19.0",
     "charset": "^1.0.1",
     "cheerio": "^1.0.0-rc.3",
